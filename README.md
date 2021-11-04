@@ -3,7 +3,7 @@ sg-telegram
 
 A thin telegram wrapper built on top of Sugaroid Websocket implementation.
 
-![Screenshot](./docs/screenshot.png)
+![Screenshot](./docs/img/screenshot.png)
 
 Build 
 -----
